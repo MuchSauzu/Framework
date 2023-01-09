@@ -1,0 +1,3 @@
+1.REST API adalah desain arsitektur untuk membuat API, API sediri adalah  software yang memungkinkan dua komponen perangkat lunak untuk saling berkomunikasi.
+3.headless architecture adalah konsep pengembangan software yang memisahkan lapisan frontend (antarmuka pengguna – UI) dan lapisan backend (logika bisnis) situs web
+  kelebihannya memberikan fleksibilitas kerangka kerja yang sangat dibutuhkan.
